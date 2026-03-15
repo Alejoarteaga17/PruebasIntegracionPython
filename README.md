@@ -56,8 +56,3 @@ test_part4_database.py — base de datos (SQLite in‑memory).
 
 README.md con instrucciones ejecutables.
 
-
-## Sugerencias didácticas
-- Introduce un cambio en cada parte (nueva regla, nuevo campo, constraint) y vuelve a correr tests.
-- Integra este repo en tu pipeline CI con el workflow de GitHub Actions incluido.
-```
